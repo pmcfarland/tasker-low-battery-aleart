@@ -1,5 +1,5 @@
 # tasker-low-battery-alert
-Tasker script to send email alert when the battery percentage is low.
+Tasker(https://tasker.joaoapps.com/) script to send email alert when the battery percentage is low.
 
 Description
 
