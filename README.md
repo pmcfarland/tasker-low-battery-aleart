@@ -66,4 +66,5 @@ Please replace user@server.com with your email address. Also replace <user> with
 
 
 Here is an example (redacted) screenshot from what the alert would look like:
+
 ![example](https://user-images.githubusercontent.com/13721267/114815079-faa13b80-9da4-11eb-9070-6bc2a9f3a4bb.jpg)
