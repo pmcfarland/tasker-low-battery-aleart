@@ -57,3 +57,9 @@ A1: Get Location v2 [  Timeout (Seconds):30 Minimum Accuracy (meters): Speed (me
 A2: Send email [ Configuration:Send email from <user@server.com> to <user@server.com> Timeout (Seconds):0 ]
 A3: Flash [ Text:Alert, battery is low!
 %BATT Long:Off ] 
+
+
+
+NOTE: This task requires the MailTask app/plugin (https://play.google.com/store/apps/details?id=com.balda.mailtask)
+
+Please replace user@server.com with your email address. Also replace <user> with the user's name
